@@ -1,0 +1,80 @@
+*{margin:0; padding:0}
+bode{font-family:arial;}
+	a{text-decoration:none;
+	}
+	
+	
+	.full-content{width:100%;
+	margin-top:5px;}
+	.content-wraper{width:980px;
+	margin:0 auto;}
+.fix{overflow:hidden;}	
+	#head{
+	width:980px;background-color:#b6b6b8;overflow:hidden;}
+	
+	.left-header{float:left;}
+	.left-header h2{margin-top:40px;
+	margin-left:20px;}
+	.left-header p{
+	margin-left:20px;
+	}
+	.menu{float:right;
+	}
+	.menu{
+	}	
+	.menu li{
+		float:left;
+	
+	list-style-type:none;
+	overflow:hidden;}	
+	.menu li a:last-child{
+		border-right:none;}
+	
+	
+	.menu li a{color:#000000;
+	display:block;
+	padding:38px 20px;
+	border-right:2px solid #1f3e3e;
+	;border-bottom:5px solid #8a8686;}
+	.menu li.active a{border-bottom:5px solid #1f3e3e;}
+	
+	.menu li a:hover{background:#5c5c6a;
+	color:#fff;
+	border-bottom:5px solid #1f3e3e;}	
+
+
+.top{margin-top:-10px;
+	border-top:5px solid #8a8686;
+}	
+.left{float:left;width:600px;
+margin-right:20px;margin-top:0px;}	
+	
+	.right{
+	position:relative;
+
+}	
+.right input{width:356px;
+	height:50px;
+}	
+	
+.right input[type="submit"]{
+width:42px;
+height:42px;
+background:url(img/aro-icon.png)no-repeat;
+border:none;	
+position:absolute;
+text-indent:-99999px;
+float:right;
+top:5px;
+right:10px;}
+
+	
+	
+img{width:315px;
+height:500px;}
+.kalam{;overflow:hidden;}	
+.box{width:315px;
+float:left;margin-right:17px;
+}	
+.box-3{margin-right:0px;}
+
